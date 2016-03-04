@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!--safescan的帧动画文件-->    
+    <item
+        android:drawable="@drawable/safescan_icon1"
+        android:duration="200" />
+        <item
+        android:drawable="@drawable/safescan_icon2"
+        android:duration="200" />
+            <item
+        android:drawable="@drawable/safescan_icon3"
+        android:duration="200" />
+                <item
+        android:drawable="@drawable/safescan_icon4"
+        android:duration="200" />
+                    <item
+        android:drawable="@drawable/safescan_icon5"
+        android:duration="200" />                    
+</animation-list>
